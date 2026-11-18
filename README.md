@@ -5,9 +5,6 @@
 
   **Everything you need to represent WaveServ consistently across platforms and projects.**
 
-  <a href="https://waveserv.com"><img src="https://img.shields.io/badge/WaveServ-Visit%20website-6c5ce7?style=for-the-badge" alt="Visit WaveServ" /></a>
-</div>
-
 <br />
 
 This collection includes official logos, banners, colors, typography, icons, and other visual assets for the WaveServ brand.
